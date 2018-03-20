@@ -1,0 +1,18 @@
+[
+{
+  "modid": "Minimapsync",
+  "name": "Minimapsync",
+  "description": "Synchronization of waypoints from Rei's or Zan's minimap or JourneyMap on servers running with this mod.
+Also enables teleportation to set waypoints 
+with /warptowaypoint <name>",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://adf.ly/sR7CW",
+  "updateUrl": "",
+  "authorList": ["james94jeans2"],
+  "credits": "LeichtProductions on YouTube",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
